@@ -152,3 +152,4 @@ install(DIRECTORY TempFluctuations/macros DESTINATION PWGCF/EBYE/TempFluctuation
 install(DIRECTORY LongAsymmetry/macros DESTINATION PWGCF/EBYE/LongAsymmetry)
 install(DIRECTORY IdentityMethodEbyeFluctuations/macros DESTINATION PWGCF/EBYE/IdentityMethodEbyeFluctuations)
 install(DIRECTORY NetChargeFluctuations/macros DESTINATION PWGCF/EBYE/NetChargeFluctuations)
+install(DIRECTORY PhiDistribution/macros DESTINATION PWGCF/EBYE/PhiDistribution)
